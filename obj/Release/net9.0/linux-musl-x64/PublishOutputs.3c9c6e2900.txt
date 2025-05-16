@@ -1,0 +1,4 @@
+C:\Users\raghu\AspNetDemo\publish\appsettings.Development.json
+C:\Users\raghu\AspNetDemo\publish\appsettings.json
+C:\Users\raghu\AspNetDemo\publish\AspNetDemo.pdb
+C:\Users\raghu\AspNetDemo\publish\AspNetDemo
