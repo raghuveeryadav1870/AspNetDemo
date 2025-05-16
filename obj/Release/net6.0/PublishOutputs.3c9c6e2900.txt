@@ -1,9 +1,15 @@
 C:\Users\raghu\AspNetDemo\publish\AspNetDemo.exe
+C:\Users\raghu\AspNetDemo\publish\publish\web.config
 C:\Users\raghu\AspNetDemo\publish\appsettings.Development.json
 C:\Users\raghu\AspNetDemo\publish\appsettings.json
 C:\Users\raghu\AspNetDemo\publish\publish\appsettings.Development.json
 C:\Users\raghu\AspNetDemo\publish\publish\appsettings.json
+C:\Users\raghu\AspNetDemo\publish\publish\AspNetDemo.deps.json
+C:\Users\raghu\AspNetDemo\publish\publish\AspNetDemo.runtimeconfig.json
 C:\Users\raghu\AspNetDemo\publish\publish\AspNetDemo.staticwebassets.endpoints.json
+C:\Users\raghu\AspNetDemo\publish\publish\publish\appsettings.Development.json
+C:\Users\raghu\AspNetDemo\publish\publish\publish\appsettings.json
+C:\Users\raghu\AspNetDemo\publish\publish\publish\AspNetDemo.staticwebassets.endpoints.json
 C:\Users\raghu\AspNetDemo\publish\AspNetDemo.dll
 C:\Users\raghu\AspNetDemo\publish\AspNetDemo.deps.json
 C:\Users\raghu\AspNetDemo\publish\AspNetDemo.runtimeconfig.json

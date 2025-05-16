@@ -35,3 +35,9 @@ C:\Users\raghu\AspNetDemo\obj\Release\net6.0\refint\AspNetDemo.dll
 C:\Users\raghu\AspNetDemo\obj\Release\net6.0\AspNetDemo.pdb
 C:\Users\raghu\AspNetDemo\obj\Release\net6.0\AspNetDemo.genruntimeconfig.cache
 C:\Users\raghu\AspNetDemo\obj\Release\net6.0\ref\AspNetDemo.dll
+C:\Users\raghu\AspNetDemo\bin\Release\net6.0\publish\web.config
+C:\Users\raghu\AspNetDemo\bin\Release\net6.0\publish\AspNetDemo.deps.json
+C:\Users\raghu\AspNetDemo\bin\Release\net6.0\publish\AspNetDemo.runtimeconfig.json
+C:\Users\raghu\AspNetDemo\bin\Release\net6.0\publish\publish\appsettings.Development.json
+C:\Users\raghu\AspNetDemo\bin\Release\net6.0\publish\publish\appsettings.json
+C:\Users\raghu\AspNetDemo\bin\Release\net6.0\publish\publish\AspNetDemo.staticwebassets.endpoints.json
