@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m0xWmKdtuVk=",
+  "dgSpecHash": "xe/zJjL+RgI=",
   "success": true,
   "projectFilePath": "C:\\Users\\raghu\\AspNetDemo\\AspNetDemo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
-    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-musl-x64\\9.0.4\\microsoft.netcore.app.runtime.linux-musl-x64.9.0.4.nupkg.sha512",
-    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-musl-x64\\9.0.4\\microsoft.aspnetcore.app.runtime.linux-musl-x64.9.0.4.nupkg.sha512",
-    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.netcore.app.host.linux-musl-x64\\9.0.4\\microsoft.netcore.app.host.linux-musl-x64.9.0.4.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
