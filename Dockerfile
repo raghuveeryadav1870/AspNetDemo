@@ -1,10 +1,11 @@
-FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-alpine-amd64
+# Build Stage
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /source
+COPY . .
+RUN dotnet publish -c Release -o /app
 
+# Runtime Stage
+FROM mcr.microsoft.com/dotnet/aspnet:6.0-alpine
 WORKDIR /app
-
-COPY ./publish/. ./
-
-RUN chmod +x ./AspNetDemo
-
-ENTRYPOINT ["./AspNetDemo"]
-	
+COPY --from=build /app .
+ENTRYPOINT ["dotnet", "AspNetDemo.dll"]
